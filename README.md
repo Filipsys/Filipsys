@@ -12,8 +12,13 @@
 - 👋 Hi, I’m **@Filipsys**
 - 👀 Programming, video games, computing, etc.
 - 🌱 Python, JavaScript, MCfunction
-- 💞️ Python
 - 📫 https://filipsys.dev
+
+### :floppy_disk: Main modules :
+
+- Discord.py
+- Sqlite3
+- Pygame
 
 ---
 
