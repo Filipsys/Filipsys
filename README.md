@@ -33,10 +33,6 @@
   </a>
 </div>
 
-- Python stuff: 
-
-- School stuff: 
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
