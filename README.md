@@ -22,6 +22,21 @@
 
 ---
 
+### :pager: Main repos :
+
+<div id="badges">
+  <a href="https://github.com/Filipsys/intermediate_python">
+    <img src="https://img.shields.io/badge/Python%20stuff-Here-green" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Filipsys/school-stuff">
+    <img src="https://img.shields.io/badge/School%20stuff-Here-green" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+- Python stuff: 
+
+- School stuff: 
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
