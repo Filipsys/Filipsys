@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-  Add me on Discord!
+  Add me on Discord!<br>
   <b>Filipsys#8437</b>
 </div>
 
