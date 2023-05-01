@@ -32,7 +32,7 @@
   <a href="https://github.com/Filipsys/defaultbot">
     <img src="https://img.shields.io/badge/Discord%20bots-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Filipsys/defaultbot">
+  <a href="https://github.com/Filipsys/Minecraft-datapacks">
     <img src="https://img.shields.io/badge/Minecraft datapacks-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
 </div>
