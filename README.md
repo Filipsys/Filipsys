@@ -54,8 +54,10 @@
 
 ---
 
-<div style="color: yellow" align="center">
-  <b>https://filipsys.dev</b>
+<div align="center">
+  <a style="color: yellow !important"
+    <b>https://filipsys.dev</b>
+  </a>
 </div>
 
 ---
