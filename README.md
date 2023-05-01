@@ -54,6 +54,12 @@
 
 ---
 
+<div align="center">
+  <b>https://filipsys.dev</b>
+</div>
+
+---
+
 ### :man_technologist: About Me
 
 - 👋 Hi, I’m **@Filipsys**
@@ -65,12 +71,6 @@
 - Discord.py
 - Sqlite3
 - Pygame
-
----
-
-<div align="center">
-  <b>https://filipsys.dev</b>
-</div>
 
 ---
 
