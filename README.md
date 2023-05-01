@@ -54,7 +54,7 @@
 
 ---
 
-<div align="center">
+<div style="color: yellow" align="center">
   <b>https://filipsys.dev</b>
 </div>
 
@@ -71,6 +71,7 @@
 - Discord.py
 - Sqlite3
 - Pygame
+- Tensorflow
 
 ---
 
