@@ -55,8 +55,8 @@
 ---
 
 <div align="center">
-  <a style="color: yellow !important"
-    <b>https://filipsys.dev</b>
+  <a style="color: yellow !important" href="https://filipsys.dev">
+    <b>filipsys.dev</b>
   </a>
 </div>
 
