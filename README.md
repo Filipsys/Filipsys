@@ -69,6 +69,13 @@
 
 ---
 
+<div align="center">
+  Add me on Discord!
+  <b>Filipsys#8437</b>
+</div>
+
+---
+
 ### :fire: My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipsys&show_icons=true&theme=cobalt)
