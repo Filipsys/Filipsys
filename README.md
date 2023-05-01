@@ -14,13 +14,13 @@
   
 <div id="badges" align="center">
   <a href="https://github.com/Filipsys/intermediate_python">
-    <img src="https://img.shields.io/badge/Python%20stuff-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Python%20repo-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Filipsys/school-stuff">
-    <img src="https://img.shields.io/badge/School%20stuff-Here-lightblue?style=flat-square&logo=googlescholar&logoColor=lightgray" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/School%20repo-Here-lightblue?style=flat-square&logo=googlescholar&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Filipsys/php_stuff">
-    <img src="https://img.shields.io/badge/PHP%20stuff-Here-lightblue?style=flat-square&logo=php&logoColor=lightgray" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/PHP%20repo-Here-lightblue?style=flat-square&logo=php&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -30,10 +30,10 @@
 
 <div id="badges" align="center">
   <a href="https://github.com/Filipsys/defaultbot">
-    <img src="https://img.shields.io/badge/Bot%20stuff-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Discord%20bots-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Filipsys/defaultbot">
-    <img src="https://img.shields.io/badge/Minecraft datapack%20stuff-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Minecraft datapacks-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
 </div>
 
