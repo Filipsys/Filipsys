@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <h3>:pager: Main repos</h3>
+  <h3>:unlock: Main repos</h3>
 </div>
   
 <div id="badges" align="center">
@@ -25,12 +25,15 @@
 </div>
 
 <div align="center">
-  <h3>:pager: My repos (private)</h3>
+  <h3>:lock: My repos (private)</h3>
 </div>
 
 <div id="badges" align="center">
   <a href="https://github.com/Filipsys/defaultbot">
-    <img src="https://img.shields.io/badge/Python%20stuff-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Bot%20stuff-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Filipsys/defaultbot">
+    <img src="https://img.shields.io/badge/Minecraft datapack%20stuff-Here-lightblue?style=flat-square&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
 </div>
 
