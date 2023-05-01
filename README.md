@@ -69,7 +69,7 @@
 ---
 
 <div align="center">
-  :link: https://filipsys.dev
+  :link: <b>https://filipsys.dev</b>
 </div>
 
 ---
