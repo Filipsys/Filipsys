@@ -69,7 +69,6 @@
 ---
 
 <div align="center">
-  :link:<br>
   <b>https://filipsys.dev</b>
 </div>
 
