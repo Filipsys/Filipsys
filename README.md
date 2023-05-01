@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <h3>:pager: Main repos :</h3>
+  <h3>:pager: Main repos</h3>
 </div>
   
 <div id="badges" align="center">
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h3>:pager: My repos (private) :</h3>
+  <h3>:pager: My repos (private)</h3>
 </div>
 
 <div id="badges" align="center">
@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <h3>:hammer_and_wrench: Languages and Tools :</h3>
+  <h3>:hammer_and_wrench: Languages and Tools</h3>
 </div>
 
 <div align="center">
@@ -51,14 +51,14 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
 - 👋 Hi, I’m **@Filipsys**
 - 👀 Programming, video games, computing, etc.
 - 🌱 Python, JavaScript, MCfunction, Sqlite3
 - 📫 https://filipsys.dev
 
-### :floppy_disk: Main modules :
+### :floppy_disk: Main modules
 
 - Discord.py
 - Sqlite3
@@ -66,10 +66,10 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipsys&show_icons=true&theme=cobalt)
  
 ---
 
-Also send help
+<i>Also send help</i>
