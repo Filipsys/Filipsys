@@ -38,19 +38,29 @@
 </div>
 
 <div align="center">
-  <h3>:hammer_and_wrench: Languages and Tools</h3>
+  <h3>:hammer_and_wrench: Languages</h3>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,css,html,flask,git,github,js,sqlite,mysql,ps,py,raspberrypi,tensorflow,vscode&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=css,html,js,sqlite,mysql,py&perline=3"/>
+  </a>
+</p>
+
+<div align="center">
+  <h3>:hammer_and_wrench: Tools and Modules</h3>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,html,flask,git,github,ps,raspberrypi,tensorflow,vscode&perline=3"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <a style="color: yellow !important" href="https://filipsys.dev">
+  <a href="https://filipsys.dev">
     <b>filipsys.dev</b>
   </a>
 </div>
