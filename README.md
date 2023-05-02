@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,css,html,flask,git,github,js,sqlite,mysql,ps,py,raspberrypi,tensorflow,vscode,selenium&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=blender,css,html,flask,git,github,js,sqlite,mysql,ps,py,raspberrypi,tensorflow,vscode,selenium&perline=7"/>
   </a>
 </p>
 
