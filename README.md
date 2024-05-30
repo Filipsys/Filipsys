@@ -86,18 +86,3 @@
 - Tensorflow
 
 ---
-
-<div align="center">
-  Add me on Discord!<br>
-  <b>Filipsys#8437</b>
-</div>
-
----
-
-### :fire: My Stats
-
-![Filipsys' GitHub stats](https://github-readme-stats.vercel.app/api?username=filipsys&show_icons=true&theme=cobalt)
- 
----
-
-<i>Also send help</i>
