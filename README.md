@@ -1,88 +1,58 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized.gif" width="200"/>
+<div align="center">
+  <a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/HOME-696969" alt="home page"/></a>⠀
+  <a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/CONTACT-696969" alt="contact page"/></a>⠀
+  <a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/REPOS-696969" alt="repositories"/></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/ACCOUNT-32CD32" alt="account page"/></a>⠀<a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/SIGN%20UP-32CD32" alt="sign up page"/></a>
 </div>
 
-<!-- <div id="views" align="center">
-  <a href="https://komarev.com/">
-    <img src="https://komarev.com/ghpvc/?username=Filipsys&style=flat" alt="Views Badge"/>
-  </a> -->
- 
-<h1 align="center">
-  hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-
-<div align="center">
+<!-- <div align="center">
   <h3>:unlock: Main repos</h3>
-</div>
-  
-<div id="badges" align="center">
-  <a href="https://github.com/Filipsys/intermediate_python">
-    <img src="https://img.shields.io/badge/Python%20repo-Here-lightblue?style=flat&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Filipsys/school-stuff">
-    <img src="https://img.shields.io/badge/School%20repo-Here-lightblue?style=flat&logo=googlescholar&logoColor=lightgray" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Filipsys/php_stuff">
-    <img src="https://img.shields.io/badge/PHP%20repo-Here-lightblue?style=flat&logo=php&logoColor=lightgray" alt="LinkedIn Badge"/>
-  </a>
-</div>
+</div> -->
+
+<br>
+<br>
+<br>
 
 <div align="center">
-  <h3>:lock: My repos (private)</h3>
+
+  I'm **@Filipsys**, also known as **filyys**<br><br><br>
+Always looking forward to programming, ai lover, black hole appreciator,<br>solo video game experiencer and always open to try out new stuff<br>
+✨ Proffesional hater ✨<br>
+<br>
+Give me cool project ideas >:3
 </div>
 
-<div id="badges" align="center">
+
+<br>
+<br>
+<br>
+<br>
+
+<!-- <div id="badges" align="center">
   <a href="https://github.com/Filipsys/defaultbot">
     <img src="https://img.shields.io/badge/Discord%20bots-Here-lightblue?style=flat&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Filipsys/Minecraft-datapacks">
     <img src="https://img.shields.io/badge/Minecraft datapacks-Here-lightblue?style=flat&logo=python&logoColor=lightgray" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div> -->
 
 <div align="center">
-  <h3>:hammer_and_wrench: Languages</h3>
+  <h3>:hammer_and_wrench: Languages & Tools</h3>
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,sqlite,mysql,py&perline=3"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=css,html,js,c,docker,sqlite,mysql,py&perline=4"/>⠀⠀⠀<img src="https://skillicons.dev/icons?i=blender,flask,github,raspberrypi,tensorflow,vscode,electron,nodejs,npm,webpack&perline=5"/>
 </p>
 
-<div align="center">
-  <h3>:hammer_and_wrench: Tools and Modules</h3>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,flask,git,github,ps,raspberrypi,tensorflow,vscode&perline=4"/>
-  </a>
-</p>
-  
----
-
-<div align="center">
-  <a href="https://filipsys.dev">
-    <b>filipsys.dev</b>
-  </a>
-</div>
-
----
-
-### :man_technologist: About Me
-
-- 👋 Hi, I’m **@Filipsys**
-- 👀 Programming, video games, computing, etc.
-- 🌱 Python, JavaScript, MCfunction, Sqlite3
-
-### :floppy_disk: Main modules
-
-- Discord.py
-- Sqlite3
-- Pygame
-- Tensorflow
-
----
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
