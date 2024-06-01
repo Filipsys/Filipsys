@@ -16,7 +16,7 @@
 <div align="center">
 
   I'm **@Filipsys**, also known as **filyys**<br><br><br>
-Always looking forward to programming, ai lover, black hole appreciator,<br>solo video game experiencer and always open to try out new stuff<br>
+Always looking forward to programming, ai lover, black hole appreciator,<br>solo video game experiencer, kpop enjoyer and always open to try out new stuff<br>
 ✨ Proffesional hater ✨<br>
 <br>
 Give me cool project ideas >:3
