@@ -49,10 +49,3 @@ Give me cool project ideas >:3
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
