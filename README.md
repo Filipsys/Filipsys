@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/HOME-696969" alt="home page"/></a>⠀
   <a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/CONTACT-696969" alt="contact page"/></a>⠀
-  <a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/REPOS-696969" alt="repositories"/></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/ACCOUNT-32CD32" alt="account page"/></a>⠀<a href="https://music.youtube.com/watch?v=hh5GKVa8VtM&si=KDt2AA4bLMSVYID_"><img src="https://img.shields.io/badge/SIGN%20UP-32CD32" alt="sign up page"/></a>
+  <a href="https://github.com/Filipsys?tab=repositories"><img src="https://img.shields.io/badge/REPOS-696969" alt="repositories"/></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/Filipsys"><img src="https://img.shields.io/badge/ACCOUNT-32CD32" alt="account page"/></a>⠀<a href="https://music.youtube.com/watch?v=hh5GKVa8VtM&si=KDt2AA4bLMSVYID_"><img src="https://img.shields.io/badge/SIGN%20UP-32CD32" alt="sign up page"/></a>
 </div>
 
 
