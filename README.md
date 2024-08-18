@@ -38,11 +38,15 @@ Give me cool project ideas please
 </div> -->
 
 <div align="center">
+
+</div>
+
+<div align="center">
   <h3>:hammer_and_wrench: Languages & tools i like to use</h3>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,js,c,docker,sqlite,mysql,py&perline=4"/>⠀⠀⠀<img src="https://skillicons.dev/icons?i=latex,flask,github,vite,nextjs,vscode,bun,nodejs,npm,react&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=css,html,js,ts,c,sqlite,mysql,py&perline=4"/>⠀⠀⠀<img src="https://skillicons.dev/icons?i=latex,flask,github,vite,nextjs,vscode,bun,nodejs,npm,react&perline=5"/>
 </p>
 
 <br>
