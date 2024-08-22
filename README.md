@@ -12,8 +12,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts,c,sqlite,mysql,py&perline=4"/>⠀⠀⠀<img src="https://skillicons.dev/icons?i=tailwindcss,flask,github,vite,nextjs,vscode,bun,nodejs,npm,react&perline=5"/>
 </p>
-
-<br>
-<br>
-<br>
-<br>
