@@ -1,4 +1,4 @@
-### 🌿 Hi, I'm Filip, also known as filyys, I'm a front-end<br>developer from Poland. I mainly work with React, NextJS,<br>TailwindCSS, TypeScript, and relational databases like SQLite & MySQL.
+### 🌿 Hi, I'm Filip, also known as filyys, I'm a front-end<br>developer from Poland. I mainly work with React, NextJS,<br>TailwindCSS, TypeScript, and databases like SQLite & MySQL.
 
 <div align="left">
   <h3>:hammer_and_wrench: Languages & tools i like to use</h3>
