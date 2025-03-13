@@ -3,7 +3,7 @@
 <h3>:hammer_and_wrench: Languages & tools i like to use</h3>
 
 <p align="left">
-  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=css,html,js,ts,c,sqlite,mysql,py&s=30&g=10&perline=4"/>⠀⠀<img src="https://skillicons.dev/icons?i=tailwindcss,flask,github,vite,nextjs,vscode,bun,nodejs,pnpm,react&perline=5"/>
+  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=css,html,js,ts,c,sqlite,mysql,py&s=30&g=20&p=10&perline=4"/>⠀⠀<img src="https://icon-worker.filipsysak.workers.dev/icons?i=tailwindcss,flask,github,vite,nextjs,vscode,bun,nodejs,pnpm,react&s=30&g=20&p=10&perline=5"/>
 </p>
 
 ---
